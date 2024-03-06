@@ -41,6 +41,10 @@ padding-right: 10px;
 .noticias{
     padding: 100px 0 100px 0;
 }
+.lista, 
+.lista2{
+    justify-content:center;
+}
 .noticias .badge{
     padding:8px;
 }
